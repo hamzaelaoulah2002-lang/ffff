@@ -28,5 +28,5 @@ Le programme permet de :
 
 ## Auteur
 
-Hamza El Aoula  
+Hamza El-AOULA 
 ENSET Mohammedia – Génie Électrique et Énergies Renouvelables
